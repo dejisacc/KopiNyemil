@@ -1,0 +1,6 @@
+{
+  "name": "Kopi Nyemil",
+  "description": "Aplikasi pemesanan makanan dan minuman Kopi Nyemil dengan alur pemesanan lengkap dan visual responsif",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
