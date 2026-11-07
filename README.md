@@ -5,29 +5,37 @@
 
 ## Fitur Aplikasi
 1. **Splash / Welcome:** Layar sapaan awal saat aplikasi pertama kali dibuka.
-   <img width="1080" height="2392" alt="Splash kopi nyemil" src="https://github.com/user-attachments/assets/e1ce3224-1a88-46a0-8328-e71c99343023" />
+   
+   <img width="270" height="846" alt="Splash kopi nyemil" src="https://github.com/user-attachments/assets/e1ce3224-1a88-46a0-8328-e71c99343023" />
 
-2. **Sign Up (Pilihan):** Layar yang memberikan opsi bagi pengguna baru untuk masuk atau mendaftar.
-   <img width="1080" height="2392" alt="Sign up kopi nyemil" src="https://github.com/user-attachments/assets/f45245e9-ac66-45e6-b02c-0c99ed8046f1" />
+3. **Sign Up (Pilihan):** Layar yang memberikan opsi bagi pengguna baru untuk masuk atau mendaftar.
+   
+   <img width="270" height="846" alt="Sign up kopi nyemil" src="https://github.com/user-attachments/assets/f45245e9-ac66-45e6-b02c-0c99ed8046f1" />
 
-3. **Login:** Halaman autentikasi untuk pengguna yang sudah memiliki akun.
-   <img width="1080" height="2392" alt="Login kopi nyemil" src="https://github.com/user-attachments/assets/5718e0df-08a4-4c5f-ac35-40dfd71e489a" />
+4. **Login:** Halaman autentikasi untuk pengguna yang sudah memiliki akun.
+   
+   <img width="270" height="846" alt="Login kopi nyemil" src="https://github.com/user-attachments/assets/5718e0df-08a4-4c5f-ac35-40dfd71e489a" />
 
-4. **Register:** Formulir pendaftaran akun bagi pengguna baru.
-   <img width="1080" height="2392" alt="Register kopi nyemil" src="https://github.com/user-attachments/assets/cc6ddb66-7195-4f7e-ab12-7ca45402fcbe" />
+5. **Register:** Formulir pendaftaran akun bagi pengguna baru.
+   
+   <img width="270" height="846" alt="Register kopi nyemil" src="https://github.com/user-attachments/assets/cc6ddb66-7195-4f7e-ab12-7ca45402fcbe" />
 
-5. **Home:** Beranda utama yang menampilkan nama pengguna, sapaan, serta akses ke daftar makanan & minuman.
-6. **Daftar Makanan dan Minuman:** Katalog menu (seperti Donat Cokelat, Cappuccino, dll) lengkap dengan harga dan tombol untuk menambahkan ke keranjang pesanan.
-    <img width="1080" height="2950" alt="Home kopi nyemil" src="https://github.com/user-attachments/assets/bda5d3ae-498b-4a77-bf65-9ee44e718b84" />
+6. **Home:** Beranda utama yang menampilkan nama pengguna, sapaan, serta akses ke daftar makanan & minuman.
+7. **Daftar Makanan dan Minuman:** Katalog menu (seperti Donat Cokelat, Cappuccino, dll) lengkap dengan harga dan tombol untuk menambahkan ke keranjang pesanan.
+   
+    <img width="270" height="846" alt="Home kopi nyemil" src="https://github.com/user-attachments/assets/bda5d3ae-498b-4a77-bf65-9ee44e718b84" />
     
-7. **Profile:** Halaman yang menampilkan informasi data diri pengguna (nama, email, no HP) dengan fitur edit dan tombol logout.
-   <img width="1080" height="2392" alt="Profile kopi nyemil" src="https://github.com/user-attachments/assets/d8ada23f-fe92-45a5-a239-53cd4f1e38df" />
+8. **Profile:** Halaman yang menampilkan informasi data diri pengguna (nama, email, no HP) dengan fitur edit dan tombol logout.
+  
+   <img width="270" height="846" alt="Profile kopi nyemil" src="https://github.com/user-attachments/assets/d8ada23f-fe92-45a5-a239-53cd4f1e38df" />
 
-8. **Alamat Pengiriman:** Formulir pemesanan yang merangkum item keranjang serta meminta input nama penerima, alamat detail, dan patokan lokasi.
-    <img width="1080" height="2681" alt="Order kopi nyemil" src="https://github.com/user-attachments/assets/28568375-70b6-4a01-803c-0e6848a8b30b" />
+10. **Alamat Pengiriman:** Formulir pemesanan yang merangkum item keranjang serta meminta input nama penerima, alamat detail, dan patokan lokasi.
+  
+    <img width="270" height="846" alt="Order kopi nyemil" src="https://github.com/user-attachments/assets/28568375-70b6-4a01-803c-0e6848a8b30b" />
 
-9. **Konfirmasi Pesanan:** Layar ringkasan akhir setelah pesanan dibuat yang menampilkan ucapan sukses, ID pesanan, dan total harga.
-    <img width="1080" height="2392" alt="Order confirmed kopi nyemil" src="https://github.com/user-attachments/assets/4887f5ea-81bf-466c-ab4a-7f605ccf435d" />
+11. **Konfirmasi Pesanan:** Layar ringkasan akhir setelah pesanan dibuat yang menampilkan ucapan sukses, ID pesanan, dan total harga.
+
+   <img width="270" height="846" alt="Order confirmed kopi nyemil" src="https://github.com/user-attachments/assets/4887f5ea-81bf-466c-ab4a-7f605ccf435d" />
 
 
 ## Teknologi yang Digunakan
